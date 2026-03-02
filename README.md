@@ -1,6 +1,6 @@
 ## Hello, im blank 👋
 
-- 🌱 I'm 18
+- 🌱 I'm 20
 - 💬 I’m currently learning reverse engineering
 - 📫 How to reach me: Through my discord - b1ankx!
 - 😄 Pronouns: he/him
